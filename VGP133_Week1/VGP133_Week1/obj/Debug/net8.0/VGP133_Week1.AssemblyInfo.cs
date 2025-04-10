@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VGP133_Week1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94532e18dd12010e3211ea52835c742a6188af91")]
 [assembly: System.Reflection.AssemblyProductAttribute("VGP133_Week1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VGP133_Week1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

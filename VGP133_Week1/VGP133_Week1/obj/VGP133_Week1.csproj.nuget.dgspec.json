@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LCV1924812\\source\\repos\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj": {}
+    "C:\\Users\\LCV1924812\\source\\repos\\VGP133\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LCV1924812\\source\\repos\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj": {
+    "C:\\Users\\LCV1924812\\source\\repos\\VGP133\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LCV1924812\\source\\repos\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj",
+        "projectUniqueName": "C:\\Users\\LCV1924812\\source\\repos\\VGP133\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj",
         "projectName": "VGP133_Week1",
-        "projectPath": "C:\\Users\\LCV1924812\\source\\repos\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj",
+        "projectPath": "C:\\Users\\LCV1924812\\source\\repos\\VGP133\\VGP133_Week1\\VGP133_Week1\\VGP133_Week1.csproj",
         "packagesPath": "C:\\Users\\LCV1924812\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LCV1924812\\source\\repos\\VGP133_Week1\\VGP133_Week1\\obj\\",
+        "outputPath": "C:\\Users\\LCV1924812\\source\\repos\\VGP133\\VGP133_Week1\\VGP133_Week1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
